@@ -1,12 +1,11 @@
-## Hi there 👋
+## o/, we are REPUB Utilities!
 
-<!--
+We are a tiny group of developers hard at work building new utilities for The Republic - an independent Eve Online alliance. Here you will find our collection of random bits and bobs 🔩 If you find anything useful, steal it and use it for your own purposes.
 
-**Here are some ideas to get you started:**
+## 👨‍💻 Developing in the open
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our counterintelligence team might not like it, but we are developing all of our projects in the open. This means that you can follow along with our progress, and even contribute if you want to - but be warned, we will also steal your code and use it for our own purposes 😈
+
+You can see our next projects and features on our [public roadmap]() ✨
+
+<sub>🤫 Psst! Looking for an alliance in Eve Online? [Come join us!](https://repub.gg/)</sub>
