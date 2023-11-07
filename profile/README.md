@@ -1,4 +1,4 @@
-## o/, we are REPUB Utilities!
+## 👋 We are REPUB Utilities!
 
 We are a tiny group of developers hard at work building new utilities for The Republic - an independent Eve Online alliance. Here you will find our collection of random bits and bobs 🔩 If you find anything useful, steal it and use it for your own purposes.
 
